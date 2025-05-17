@@ -11,6 +11,8 @@
 # Note: This is only used by command line
 ###############################################################################
 #*.cs     diff=csharp
+*.h linguist-language=C++
+*.cpp linguist-language=C++
 *.cpp linguist-detectable=true
 
 ###############################################################################
